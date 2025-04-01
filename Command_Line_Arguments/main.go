@@ -12,4 +12,9 @@ func main() {
 	printThePath()
 	fmt.Println()
 	fmt.Println()
+
+	fmt.Println("--------------------------------------------Print Your Name--------------------------------------------")
+	printYourName()
+	fmt.Println()
+	fmt.Println()
 }
