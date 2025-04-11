@@ -1,10 +1,5 @@
 package main
 
-import (
-	"fmt"
-	"os"
-)
-
 // ---------------------------------------------------------
 // EXERCISE: Raw Concat
 //
@@ -28,14 +23,14 @@ import (
 // ---------------------------------------------------------
 
 func rawConcate() {
-	// uncomment the code below
-	name := os.Args[1]
+	// 	// uncomment the code below
+	// 	name := os.Args[1]
 
-	// replace and concatenate the `name` variable
-	// after `hi ` below
+	// 	// replace and concatenate the `name` variable
+	// 	// after `hi ` below
 
-	msg := `hi` + ` ` + name + `!
-how are you?`
+	// 	msg := `hi` + ` ` + name + `!
+	// how are you?`
 
-	fmt.Println(msg)
+	// fmt.Println(msg)
 }

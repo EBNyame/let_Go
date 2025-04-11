@@ -17,4 +17,6 @@ func main() {
 	rawConcate()
 	fmt.Println()
 	fmt.Println()
+
+	substringSearch()
 }
